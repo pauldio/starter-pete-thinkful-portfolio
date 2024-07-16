@@ -24,7 +24,7 @@ body {
 }
 
 .flex-container > div{
-  text-align: center;
+  text-align: left;
   line-height: 25px;
 }
 
@@ -38,6 +38,10 @@ body {
   text-align: center;
   line-height: 25px;
   margin: 10px;
+}
+
+#portfolio, .p{
+  font-size: 14px;
 }
 
 h1,
